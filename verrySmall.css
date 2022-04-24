@@ -1,0 +1,58 @@
+.sub_main{
+    display: flex;
+    flex-direction: column !important;
+    width: 100%;
+}
+
+.side_up{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading{
+    margin-top: 50px;
+}
+
+.main_2{
+    margin-top: 40px;
+}
+
+.image img{
+    height: 100px;
+    width: 100px;
+}
+
+.skill hr{
+    margin-bottom: 5px;
+}
+
+#skill_content{
+    display: flex;
+    flex-direction: column;
+}
+#skill_content2{
+    padding-left: 20px;
+    margin: 0px;
+}
+#skill_content1{
+    padding-left: 20px;
+    margin: 0px;
+}
+
+.main_2 .certifications{
+    margin-bottom: 20px;
+}
+
+.experience ul{
+    padding-left: 100px;
+}
+
+.col-1 {
+    width: 100%;
+}
+
+.col-2 {
+    width: 100%;
+}

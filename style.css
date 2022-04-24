@@ -1,0 +1,109 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(161, 147, 112);
+}
+.sub_main {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    width: 80%;
+}
+
+hr{
+    margin: 0px;
+}
+
+h2{
+    margin: 0px;
+}
+h3{
+    margin: 0px;
+}
+p{
+    margin: 0px;
+    margin-top: 5px;
+}
+
+.main_1{
+    background-color: white;
+}
+
+.main_2{
+    margin: 100px 50px 0px 20px;
+    /* padding: 55px 20px 0px 5px; */
+}
+
+.skill{
+    margin-top: 30px;
+}
+
+#skill_content{
+    display: flex;
+    flex-direction: row;
+}
+
+#skill_content2{
+    padding-left: 0px;
+    margin-left: 100px;
+}
+
+.experience{
+    margin-top: 20px;
+}
+.education{
+    margin-top: 30px;
+}
+
+.certifications{
+    margin-top: 30px;
+}
+
+.side {
+    background-color: rgb(180, 175, 161);
+    
+}
+
+.heading{
+    display: flex;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.heading strong span{
+    color: rgb(255, 89, 0);
+}
+
+.image{
+    margin-top: 15px;
+}
+
+.contact{
+    margin: 25px;
+    
+}
+
+section{
+    margin: 20px 0px;
+}
+
+.languages{
+    margin: 25px;
+    
+}
+
+.hobbies{
+    margin: 25px;
+    
+}
+
+.col-1 {
+    width: 30%;
+}
+
+.col-2 {
+    width: 70%;
+}
